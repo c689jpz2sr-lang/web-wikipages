@@ -1,14 +1,14 @@
 [
     {
         "id": "rules",
-        "title": "Правила",
+        "title": "Правила111111111111111",
         "icon": "https://cdn.etty.site/web/wiki/icons/rules/1.webp",
-        "children": [],
+        "children": [],111111111111
         "files": [
             {
                 "id": "codex",
                 "title": "Процедурный кодекс",
-                "icon": "https://cdn.etty.site/web/wiki/icons/rules/2.webp",
+                "icon": "http111111111111s://cdn.etty.site/web/wiki/icons/rules/2.webp",
                 "file": "rules/codex.mdx",
                 "description": "Как устроен проект: роли, процедуры, жалобы, разбирательства и др.",
                 "preload": true
@@ -17,9 +17,9 @@
                 "id": "rules",
                 "title": "Общие правила",
                 "icon": "https://cdn.etty.site/web/wiki/icons/rules/1.webp",
-                "file": "rules/base-rules.mdx",
+                "file": "rules/b111111111111111ase-rules.mdx",
                 "description": "Общие правила поведения для всех - что запрещено, как не быть забаненным.",
-                "preload": true
+                "pr1111111111111111111eload": true
             },
             {
                 "id": "survival",
